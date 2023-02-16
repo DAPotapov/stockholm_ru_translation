@@ -38,7 +38,7 @@ msgstr ""
 
 #: 404.php:5
 msgid "Page you are looking is Not Found"
-msgstr ""
+msgstr "Страница, которую вы ищете, не найдена"
 
 #: 404.php:6
 msgid "The page you are looking for does not exist. It may have been moved, or removed altogether. Perhaps you can return back to the site’s homepage and see if you can find what you are looking for."
@@ -95,15 +95,15 @@ msgstr ""
 #: comments.php:11
 #: templates/blog/post-info/comment-without-icon.php:4
 msgid "No Comments"
-msgstr ""
+msgstr "Комментариев нет"
 
 #: comments.php:11
 msgid "Comment"
-msgstr ""
+msgstr "Комментарий"
 
 #: comments.php:11
 msgid "Comments"
-msgstr ""
+msgstr "Комментарии"
 
 #: comments.php:21
 msgid "Sorry, the comment form is closed at this time."
@@ -111,39 +111,39 @@ msgstr ""
 
 #: comments.php:35
 msgid "Post a Comment"
-msgstr ""
+msgstr "Опубликовать комментарий"
 
 #: comments.php:36
 msgid "Post a Reply to %s"
-msgstr ""
+msgstr "Ответить %s"
 
 #: comments.php:37
 msgid "Cancel Reply"
-msgstr ""
+msgstr "Отменить ответ"
 
 #: comments.php:38
 msgid "Submit"
-msgstr ""
+msgstr "Отправить"
 
 #: comments.php:39
 msgid "Write your comment here..."
-msgstr ""
+msgstr "Напишите свой комментарий здесь..."
 
 #: comments.php:43
 msgid "Your full name"
-msgstr ""
+msgstr "Ваше полное имя"
 
 #: comments.php:44
 msgid "E-mail address"
-msgstr ""
+msgstr "Адрес эл.почты"
 
 #: comments.php:45
 msgid "Website"
-msgstr ""
+msgstr "Сайт"
 
 #: comments.php:47
 msgid "Save my name, email, and website in this browser for the next time I comment."
-msgstr ""
+msgstr "Сохранить моё имя, почту и адрес сайта в браузере для последующего комментирования"
 
 #. Template Name of the theme
 #: framework/admin/options/contact/map.php:8
@@ -151,7 +151,7 @@ msgstr ""
 #: framework/admin/options/contact/map.php:18
 #: framework/admin/options/fonts/map.php:5439
 msgid "Contact Page"
-msgstr ""
+msgstr "Страница контактов"
 
 #: extendvc/extend-vc.php:165
 #: extendvc/extend-vc.php:1531
@@ -167,7 +167,7 @@ msgstr ""
 #: extendvc/extend-vc.php:5522
 #: extendvc/extend-vc.php:5739
 msgid "Content"
-msgstr ""
+msgstr "Содержимое"
 
 #: extendvc/extend-vc.php:190
 msgid "Elements Shows From Left Side"
@@ -195,15 +195,15 @@ msgstr ""
 
 #: extendvc/extend-vc.php:200
 msgid "Android"
-msgstr ""
+msgstr "Android"
 
 #: extendvc/extend-vc.php:201
 msgid "Apple"
-msgstr ""
+msgstr "Apple"
 
 #: extendvc/extend-vc.php:202
 msgid "Bitbucket"
-msgstr ""
+msgstr "Bitbucket"
 
 #: extendvc/extend-vc.php:203
 msgid "Bitbucket-Sign"
@@ -211,35 +211,35 @@ msgstr ""
 
 #: extendvc/extend-vc.php:204
 msgid "Bitcoin"
-msgstr ""
+msgstr "Bitcoin"
 
 #: extendvc/extend-vc.php:205
 msgid "BTC"
-msgstr ""
+msgstr "BTC"
 
 #: extendvc/extend-vc.php:206
 msgid "CSS3"
-msgstr ""
+msgstr "CSS3"
 
 #: extendvc/extend-vc.php:207
 #: framework/lib/qode.icons/qode.fontelegant.php:402
 #: framework/modules/icons/elegant-icons/elegant-icons.php:395
 msgid "Dribbble"
-msgstr ""
+msgstr "Dribbble"
 
 #: extendvc/extend-vc.php:208
 msgid "Dropbox"
-msgstr ""
+msgstr "Dropbox"
 
 #: extendvc/extend-vc.php:209
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 #: extendvc/extend-vc.php:210
 #: framework/lib/qode.icons/qode.fontelegant.php:405
 #: framework/modules/icons/elegant-icons/elegant-icons.php:398
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: extendvc/extend-vc.php:211
 msgid "Facebook Official"
@@ -417,15 +417,15 @@ msgstr ""
 #: extendvc/extend-vc.php:1158
 #: extendvc/extend-vc.php:5475
 msgid "Style"
-msgstr ""
+msgstr "Стиль"
 
 #: extendvc/extend-vc.php:258
 msgid "Accordion"
-msgstr ""
+msgstr "Аккордион"
 
 #: extendvc/extend-vc.php:259
 msgid "Toggle"
-msgstr ""
+msgstr "Переключатель"
 
 #: extendvc/extend-vc.php:260
 msgid "Boxed Accordion"
@@ -452,7 +452,7 @@ msgstr ""
 #: extendvc/extend-vc.php:5624
 #: extendvc/extend-vc.php:6174
 msgid "Title Color"
-msgstr ""
+msgstr "Цвет заголовка"
 
 #: extendvc/extend-vc.php:281
 #: extendvc/extend-vc.php:1012
@@ -519,7 +519,7 @@ msgstr ""
 #: framework/modules/woocommerce/admin/options-map/map.php:2065
 #: framework/modules/woocommerce/admin/options-map/map.php:3260
 msgid "Background Color"
-msgstr ""
+msgstr "Цвет заднего фона"
 
 #: extendvc/extend-vc.php:287
 #: extendvc/extend-vc.php:2756
@@ -540,7 +540,7 @@ msgstr ""
 #: framework/modules/woocommerce/shortcodes/product-list/elementor-product-list-elegant.php:324
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:187
 msgid "Title Tag"
-msgstr ""
+msgstr "Тэг заголовка"
 
 #: extendvc/extend-vc.php:299
 msgid "Horizontal Center"
@@ -568,13 +568,13 @@ msgstr ""
 
 #: extendvc/extend-vc.php:313
 msgid "Column Number"
-msgstr ""
+msgstr "Номер столбца"
 
 #: extendvc/extend-vc.php:315
 #: extendvc/extend-vc.php:4328
 #: extendvc/extend-vc.php:5340
 msgid "Disable"
-msgstr ""
+msgstr "Отключить"
 
 #: extendvc/extend-vc.php:322
 msgid "Grayscale Images"
@@ -690,7 +690,7 @@ msgstr ""
 #: framework/modules/widgets/call-to-action/call-to-action-widget.php:114
 #: framework/modules/woocommerce/admin/meta-boxes/woocommerce-meta-boxes.php:20
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #: extendvc/extend-vc.php:326
 #: extendvc/extend-vc.php:338
@@ -800,19 +800,19 @@ msgstr ""
 #: framework/modules/widgets/call-to-action/call-to-action-widget.php:113
 #: framework/modules/woocommerce/admin/meta-boxes/woocommerce-meta-boxes.php:21
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: extendvc/extend-vc.php:334
 msgid "Space Between Images"
-msgstr ""
+msgstr "Расстояние между изображениями"
 
 #: extendvc/extend-vc.php:346
 msgid "Frame"
-msgstr ""
+msgstr "Рамка"
 
 #: extendvc/extend-vc.php:358
 msgid "Choose Frame"
-msgstr ""
+msgstr "Выберите рамку"
 
 #: extendvc/extend-vc.php:361
 #: extendvc/extend-vc.php:1049
@@ -872,33 +872,33 @@ msgstr ""
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:241
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:561
 msgid "Default"
-msgstr ""
+msgstr "По умолчанию"
 
 #: extendvc/extend-vc.php:362
 msgid "Frame 1"
-msgstr ""
+msgstr "Рамка 1"
 
 #: extendvc/extend-vc.php:363
 msgid "Frame 2"
-msgstr ""
+msgstr "Рамка 2"
 
 #: extendvc/extend-vc.php:364
 msgid "Frame 3"
-msgstr ""
+msgstr "Рамка 3"
 
 #: extendvc/extend-vc.php:365
 msgid "Frame 4"
-msgstr ""
+msgstr "Рамка 4"
 
 #: extendvc/extend-vc.php:376
 #: extendvc/extend-vc.php:732
 msgid "Row Type"
-msgstr ""
+msgstr "Тип ряда"
 
 #: extendvc/extend-vc.php:379
 #: extendvc/extend-vc.php:735
 msgid "Row"
-msgstr ""
+msgstr "Ряд"
 
 #: extendvc/extend-vc.php:380
 #: extendvc/extend-vc.php:736
@@ -943,14 +943,14 @@ msgstr ""
 #: framework/modules/nav-menu/edit_custom_walker.php:195
 #: plugins/class-tgm-plugin-activation.php:2634
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #. Template Name of the theme
 #: extendvc/extend-vc.php:406
 #: extendvc/extend-vc.php:747
 #: extendvc/extend-vc.php:1327
 msgid "Full Width"
-msgstr ""
+msgstr "Полная ширина"
 
 #: extendvc/extend-vc.php:407
 #: extendvc/extend-vc.php:748
@@ -994,7 +994,7 @@ msgstr ""
 #: framework/admin/options/header/map.php:1535
 #: framework/lib/qode.icons/qode.icons.php:38
 msgid "Font Awesome"
-msgstr ""
+msgstr "Шрифт Awesome"
 
 #: extendvc/extend-vc.php:446
 #: extendvc/extend-vc.php:1365
@@ -1013,7 +1013,7 @@ msgstr ""
 #: framework/admin/options/header/map.php:1536
 #: framework/lib/qode.icons/qode.icons.php:39
 msgid "Font Elegant"
-msgstr ""
+msgstr "Шрифт Elegant"
 
 #: extendvc/extend-vc.php:447
 #: extendvc/extend-vc.php:1366
@@ -1043,7 +1043,7 @@ msgstr ""
 #: extendvc/extend-vc.php:4873
 #: extendvc/extend-vc.php:5287
 msgid "Text Align"
-msgstr ""
+msgstr "Выравнивание текста"
 
 #: extendvc/extend-vc.php:485
 #: extendvc/extend-vc.php:701
@@ -1079,7 +1079,7 @@ msgstr ""
 #: framework/modules/woocommerce/shortcodes/product-list/elementor-product-list-elegant.php:364
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:242
 msgid "Left"
-msgstr ""
+msgstr "Лево"
 
 #: extendvc/extend-vc.php:486
 #: extendvc/extend-vc.php:703
@@ -1113,7 +1113,7 @@ msgstr ""
 #: framework/modules/woocommerce/shortcodes/product-list/elementor-product-list-elegant.php:365
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:243
 msgid "Center"
-msgstr ""
+msgstr "Центр"
 
 #: extendvc/extend-vc.php:487
 #: extendvc/extend-vc.php:702
@@ -1147,7 +1147,7 @@ msgstr ""
 #: framework/modules/woocommerce/shortcodes/product-list/elementor-product-list-elegant.php:366
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:244
 msgid "Right"
-msgstr ""
+msgstr "Право"
 
 #: extendvc/extend-vc.php:495
 msgid "Video background"
@@ -1180,11 +1180,11 @@ msgstr ""
 #: extendvc/extend-vc.php:557
 #: extendvc/extend-vc.php:803
 msgid "Background image"
-msgstr ""
+msgstr "Изображение фона"
 
 #: extendvc/extend-vc.php:565
 msgid "Pattern background"
-msgstr ""
+msgstr "Узор фона"
 
 #: extendvc/extend-vc.php:566
 msgid "Use background image as pattern?"
@@ -1201,7 +1201,7 @@ msgstr ""
 #: extendvc/extend-vc.php:597
 #: extendvc/extend-vc.php:819
 msgid "Section height"
-msgstr ""
+msgstr "Высота секции"
 
 #: extendvc/extend-vc.php:605
 #: extendvc/extend-vc.php:827
@@ -1213,25 +1213,25 @@ msgstr ""
 #: framework/admin/options/elements/map.php:1762
 #: framework/admin/options/elements/map.php:4179
 msgid "Background color"
-msgstr ""
+msgstr "Цвет фона"
 
 #: extendvc/extend-vc.php:620
 msgid "Background Animation"
-msgstr ""
+msgstr "Анимация фона"
 
 #: extendvc/extend-vc.php:623
 #: framework/lib/qode.optionsapi.php:507
 #: framework/lib/qode.optionsapi.php:533
 msgid "None"
-msgstr ""
+msgstr "Ничего"
 
 #: extendvc/extend-vc.php:624
 msgid "From Left"
-msgstr ""
+msgstr "Слева"
 
 #: extendvc/extend-vc.php:625
 msgid "From Right"
-msgstr ""
+msgstr "Справа"
 
 #: extendvc/extend-vc.php:633
 msgid "Border bottom color"
@@ -1321,7 +1321,7 @@ msgstr ""
 #: extendvc/extend-vc.php:835
 #: framework/admin/options/elements/map.php:4201
 msgid "Border color"
-msgstr ""
+msgstr "Цвет рамки"
 
 #: extendvc/extend-vc.php:846
 msgid "Left and right spacing in pixels"
@@ -1347,7 +1347,7 @@ msgstr ""
 
 #: extendvc/extend-vc.php:884
 msgid "Button Position"
-msgstr ""
+msgstr "Позиция кнопки"
 
 #: extendvc/extend-vc.php:897
 #: extendvc/extend-vc.php:957
@@ -1387,7 +1387,7 @@ msgstr ""
 #: framework/admin/options/visualcomposer/map.php:475
 #: framework/admin/options/visualcomposer/map.php:711
 msgid "Color"
-msgstr ""
+msgstr "Цвет"
 
 #: extendvc/extend-vc.php:934
 #: extendvc/extend-vc.php:1353
@@ -1411,17 +1411,17 @@ msgstr ""
 #: framework/modules/woocommerce/shortcodes/product-list/elementor-product-list-elegant.php:77
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:63
 msgid "Normal"
-msgstr ""
+msgstr "Нормальный"
 
 #: extendvc/extend-vc.php:935
 #: extendvc/extend-vc.php:5490
 #: framework/modules/toolbar/toolbar.php:51
 msgid "Transparent"
-msgstr ""
+msgstr "Прозрачный"
 
 #: extendvc/extend-vc.php:936
 msgid "Full width"
-msgstr ""
+msgstr "Полная ширина"
 
 #: extendvc/extend-vc.php:937
 #: extendvc/extend-vc.php:1148
@@ -1439,36 +1439,36 @@ msgstr ""
 #: framework/modules/woocommerce/shortcodes/product-list/elementor-product-list-elegant.php:78
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:64
 msgid "Small"
-msgstr ""
+msgstr "Маленький"
 
 #: extendvc/extend-vc.php:944
 #: extendvc/extend-vc.php:1580
 #: extendvc/extend-vc.php:2335
 #: extendvc/extend-vc.php:4823
 msgid "Position"
-msgstr ""
+msgstr "Позиция"
 
 #: extendvc/extend-vc.php:963
 msgid "Border Style"
-msgstr ""
+msgstr "Стиль рамки"
 
 #: extendvc/extend-vc.php:967
 #: extendvc/extend-vc.php:1671
 #: framework/admin/options/elements/map.php:3429
 #: framework/admin/options/elements/map.php:3521
 msgid "Dashed"
-msgstr ""
+msgstr "Пунктир"
 
 #: extendvc/extend-vc.php:968
 #: extendvc/extend-vc.php:1672
 #: framework/admin/options/elements/map.php:3428
 #: framework/admin/options/elements/map.php:3520
 msgid "Solid"
-msgstr ""
+msgstr "Сплошная"
 
 #: extendvc/extend-vc.php:975
 msgid "Thickness"
-msgstr ""
+msgstr "Толщина"
 
 #: extendvc/extend-vc.php:982
 #: extendvc/extend-vc.php:1088
@@ -1477,7 +1477,7 @@ msgstr ""
 #: extendvc/extend-vc.php:3679
 #: extendvc/extend-vc.php:3716
 msgid "Width"
-msgstr ""
+msgstr "Ширина"
 
 #: extendvc/extend-vc.php:990
 msgid "Top Margin"
@@ -1531,7 +1531,7 @@ msgstr ""
 #: framework/modules/woocommerce/admin/options-map/map.php:1485
 #: framework/modules/woocommerce/admin/options-map/map.php:3288
 msgid "Border Color"
-msgstr ""
+msgstr "Цвет рамки"
 
 #: extendvc/extend-vc.php:1035
 msgid "Transition delay (s)"
@@ -1621,7 +1621,7 @@ msgstr ""
 #: framework/admin/options/error404/map.php:159
 #: framework/admin/options/fonts/map.php:800
 msgid "Text"
-msgstr ""
+msgstr "Текст"
 
 #: extendvc/extend-vc.php:1077
 #: extendvc/extend-vc.php:1643
@@ -1751,21 +1751,21 @@ msgstr ""
 #: framework/modules/woocommerce/admin/options-map/map.php:3543
 #: framework/modules/woocommerce/admin/options-map/map.php:3658
 msgid "Text Color"
-msgstr ""
+msgstr "Цвет текста"
 
 #: extendvc/extend-vc.php:1082
 msgid "Text Tag"
-msgstr ""
+msgstr "Тэг текста"
 
 #: extendvc/extend-vc.php:1090
 #: framework/admin/meta-boxes/slides/map.php:1049
 #: framework/admin/meta-boxes/slides/map.php:1140
 msgid "Width (%)"
-msgstr ""
+msgstr "Ширина (%)"
 
 #: extendvc/extend-vc.php:1094
 msgid "Line Height"
-msgstr ""
+msgstr "Высота линии"
 
 #: extendvc/extend-vc.php:1096
 #: framework/admin/meta-boxes/slides/map.php:361
@@ -1896,7 +1896,7 @@ msgstr ""
 #: framework/modules/woocommerce/admin/options-map/map.php:3565
 #: framework/modules/woocommerce/admin/options-map/map.php:3680
 msgid "Line Height (px)"
-msgstr ""
+msgstr "Высота линии (px)"
 
 #: extendvc/extend-vc.php:1110
 msgid "Show Quote Icon"
@@ -1914,7 +1914,7 @@ msgstr ""
 #: extendvc/extend-vc.php:1135
 #: framework/admin/options/visualcomposer/map.php:57
 msgid "Button"
-msgstr ""
+msgstr "Кнопка"
 
 #: extendvc/extend-vc.php:1144
 #: extendvc/extend-vc.php:2289
@@ -1922,7 +1922,7 @@ msgstr ""
 #: extendvc/extend-vc.php:4630
 #: extendvc/extend-vc.php:6097
 msgid "Size"
-msgstr ""
+msgstr "Размер"
 
 #: extendvc/extend-vc.php:1149
 #: extendvc/extend-vc.php:1458
@@ -1938,7 +1938,7 @@ msgstr ""
 #: framework/modules/woocommerce/shortcodes/product-list/elementor-product-list-elegant.php:209
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:147
 msgid "Medium"
-msgstr ""
+msgstr "Средний"
 
 #: extendvc/extend-vc.php:1150
 #: extendvc/extend-vc.php:1459
@@ -1956,11 +1956,11 @@ msgstr ""
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:62
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:148
 msgid "Large"
-msgstr ""
+msgstr "Большой"
 
 #: extendvc/extend-vc.php:1151
 msgid "Extra Large"
-msgstr ""
+msgstr "Очень большой"
 
 #: extendvc/extend-vc.php:1152
 msgid "Extra Large Full Width"
@@ -1968,11 +1968,11 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1162
 msgid "White"
-msgstr ""
+msgstr "Белый"
 
 #: extendvc/extend-vc.php:1163
 msgid "Underlined"
-msgstr ""
+msgstr "Подчеркнутый"
 
 #: extendvc/extend-vc.php:1211
 #: extendvc/extend-vc.php:1402
@@ -1991,13 +1991,13 @@ msgstr ""
 #: framework/admin/options/header/map.php:1085
 #: framework/admin/options/header/map.php:1165
 msgid "Icon Color"
-msgstr ""
+msgstr "Цвет иконки"
 
 #: extendvc/extend-vc.php:1217
 #: extendvc/extend-vc.php:1396
 #: framework/admin/options/header/map.php:3170
 msgid "Icon Size (px)"
-msgstr ""
+msgstr "Размер иконки (px)"
 
 #: extendvc/extend-vc.php:1222
 #: extendvc/extend-vc.php:2415
@@ -2010,12 +2010,12 @@ msgstr ""
 #: framework/admin/meta-boxes/slides/map.php:852
 #: framework/admin/meta-boxes/slides/map.php:900
 msgid "Link"
-msgstr ""
+msgstr "Ссылка"
 
 #: extendvc/extend-vc.php:1227
 #: extendvc/extend-vc.php:6153
 msgid "Link Target"
-msgstr ""
+msgstr "Цель ссылки"
 
 #: extendvc/extend-vc.php:1239
 #: framework/admin/options/elements/map.php:460
@@ -2206,7 +2206,7 @@ msgstr ""
 #: framework/modules/woocommerce/admin/options-map/map.php:3554
 #: framework/modules/woocommerce/admin/options-map/map.php:3669
 msgid "Font Size (px)"
-msgstr ""
+msgstr "Размер шрифта (px)"
 
 #: extendvc/extend-vc.php:1271
 #: extendvc/extend-vc.php:2155
@@ -2329,7 +2329,7 @@ msgstr ""
 #: framework/modules/woocommerce/admin/options-map/map.php:3606
 #: framework/modules/woocommerce/admin/options-map/map.php:3721
 msgid "Font Style"
-msgstr ""
+msgstr "Стиль шрифта"
 
 #: extendvc/extend-vc.php:1277
 #: extendvc/extend-vc.php:2175
@@ -2521,7 +2521,7 @@ msgstr ""
 #: framework/lib/qode.icons/qode.icons.php:529
 #: framework/modules/woocommerce/admin/options-map/map.php:3771
 msgid "Icon Pack"
-msgstr ""
+msgstr "Набор иконок"
 
 #: extendvc/extend-vc.php:1363
 #: extendvc/extend-vc.php:2961
@@ -2530,7 +2530,7 @@ msgstr ""
 #: framework/lib/qode.icons/qode.icons.php:266
 #: framework/lib/qode.icons/qode.icons.php:276
 msgid "No Icon"
-msgstr ""
+msgstr "Без иконки"
 
 #: extendvc/extend-vc.php:1372
 #: extendvc/extend-vc.php:1380
@@ -2574,7 +2574,7 @@ msgstr ""
 #: framework/lib/qode.icons/qode.icons.php:565
 #: framework/modules/nav-menu/edit_custom_walker.php:217
 msgid "Icon"
-msgstr ""
+msgstr "Иконка"
 
 #: extendvc/extend-vc.php:1409
 #: extendvc/extend-vc.php:2591
@@ -2601,21 +2601,21 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1442
 msgid "Show Button"
-msgstr ""
+msgstr "Показать кнопку"
 
 #: extendvc/extend-vc.php:1453
 msgid "Button Size"
-msgstr ""
+msgstr "Размер кнопки"
 
 #: extendvc/extend-vc.php:1460
 #: extendvc/extend-vc.php:4637
 msgid "Huge"
-msgstr ""
+msgstr "Огромный"
 
 #: extendvc/extend-vc.php:1467
 #: extendvc/extend-vc.php:5665
 msgid "Button Text"
-msgstr ""
+msgstr "Текст кнопки"
 
 #: extendvc/extend-vc.php:1474
 #: extendvc/extend-vc.php:5671
@@ -2629,7 +2629,7 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1489
 msgid "Button text color"
-msgstr ""
+msgstr "Цвет текста кнопки"
 
 #: extendvc/extend-vc.php:1496
 msgid "Button hover text color"
@@ -2662,7 +2662,7 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1541
 msgid "Counter"
-msgstr ""
+msgstr "Счётчик"
 
 #: extendvc/extend-vc.php:1554
 msgid "Zero Counter"
@@ -2670,7 +2670,7 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1555
 msgid "Random Counter"
-msgstr ""
+msgstr "Случайный счётчик"
 
 #: extendvc/extend-vc.php:1562
 msgid "Box"
@@ -2686,7 +2686,7 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1592
 msgid "Digit"
-msgstr ""
+msgstr "Цифра"
 
 #: extendvc/extend-vc.php:1598
 #: framework/admin/options/fonts/map.php:370
@@ -2694,7 +2694,7 @@ msgstr ""
 #: framework/admin/options/fonts/map.php:1743
 #: framework/admin/options/header/map.php:2782
 msgid "Font size (px)"
-msgstr ""
+msgstr "Размер шрифта (пикс.)"
 
 #: extendvc/extend-vc.php:1604
 #: framework/admin/options/fonts/map.php:534
@@ -2708,11 +2708,11 @@ msgstr ""
 #: framework/admin/meta-boxes/slides/map.php:513
 #: framework/admin/meta-boxes/slides/map.php:665
 msgid "Font Color"
-msgstr ""
+msgstr "Цвет шрифта"
 
 #: extendvc/extend-vc.php:1623
 msgid "Text Size (px)"
-msgstr ""
+msgstr "Размер шрифта (пикс.)"
 
 #: extendvc/extend-vc.php:1629
 #: framework/admin/options/elements/map.php:1213
@@ -2849,14 +2849,14 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1649
 msgid "Separator"
-msgstr ""
+msgstr "Разделитель"
 
 #: extendvc/extend-vc.php:1660
 #: framework/admin/options/elements/map.php:1144
 #: framework/admin/options/fonts/map.php:1183
 #: framework/admin/options/header/map.php:868
 msgid "Separator Color"
-msgstr ""
+msgstr "Цвет разделителя"
 
 #: extendvc/extend-vc.php:1667
 msgid "Separator Border Style"
@@ -2869,7 +2869,7 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1690
 msgid "Year"
-msgstr ""
+msgstr "Год"
 
 #: extendvc/extend-vc.php:1694
 msgid "2019"
@@ -2901,67 +2901,67 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1707
 msgid "Month"
-msgstr ""
+msgstr "Месяц"
 
 #: extendvc/extend-vc.php:1711
 msgid "January"
-msgstr ""
+msgstr "Январь"
 
 #: extendvc/extend-vc.php:1712
 msgid "February"
-msgstr ""
+msgstr "Февраль"
 
 #: extendvc/extend-vc.php:1713
 msgid "March"
-msgstr ""
+msgstr "Март"
 
 #: extendvc/extend-vc.php:1714
 msgid "April"
-msgstr ""
+msgstr "Апрель"
 
 #: extendvc/extend-vc.php:1715
 msgid "May"
-msgstr ""
+msgstr "Май"
 
 #: extendvc/extend-vc.php:1716
 msgid "June"
-msgstr ""
+msgstr "Июнь"
 
 #: extendvc/extend-vc.php:1717
 msgid "July"
-msgstr ""
+msgstr "Июль"
 
 #: extendvc/extend-vc.php:1718
 msgid "August"
-msgstr ""
+msgstr "Август"
 
 #: extendvc/extend-vc.php:1719
 msgid "September"
-msgstr ""
+msgstr "Сентябрь"
 
 #: extendvc/extend-vc.php:1720
 msgid "October"
-msgstr ""
+msgstr "Октябрь"
 
 #: extendvc/extend-vc.php:1721
 msgid "November"
-msgstr ""
+msgstr "Ноябрь"
 
 #: extendvc/extend-vc.php:1722
 msgid "December"
-msgstr ""
+msgstr "Декабрь"
 
 #: extendvc/extend-vc.php:1729
 msgid "Day"
-msgstr ""
+msgstr "День"
 
 #: extendvc/extend-vc.php:1770
 msgid "Hour"
-msgstr ""
+msgstr "Час"
 
 #: extendvc/extend-vc.php:1805
 msgid "Minute"
-msgstr ""
+msgstr "Минута"
 
 #: extendvc/extend-vc.php:1876
 msgid "Month Label"
@@ -2999,7 +2999,7 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1913
 msgid "Digit Color"
-msgstr ""
+msgstr "Цвет цифры"
 
 #: extendvc/extend-vc.php:1923
 msgid "Cover Boxes"
@@ -3007,11 +3007,11 @@ msgstr ""
 
 #: extendvc/extend-vc.php:1932
 msgid "Active element"
-msgstr ""
+msgstr "Активный элемент"
 
 #: extendvc/extend-vc.php:1939
 msgid "Title tag"
-msgstr ""
+msgstr "Тэг заголовка"
 
 #: extendvc/extend-vc.php:1942
 msgid "Choose with heading tag to display for titles"
@@ -3443,7 +3443,7 @@ msgstr ""
 #: framework/admin/options/portfolio/map.php:341
 #: framework/modules/woocommerce/admin/options-map/map.php:3378
 msgid "Circle"
-msgstr ""
+msgstr "Круг"
 
 #: extendvc/extend-vc.php:2316
 #: extendvc/extend-vc.php:2495
@@ -3458,7 +3458,7 @@ msgstr ""
 #: framework/modules/woocommerce/shortcodes/product-list/elementor-product-list-elegant.php:206
 #: framework/modules/woocommerce/shortcodes/product-list/product-list-elegant.php:144
 msgid "Square"
-msgstr ""
+msgstr "Квадрат"
 
 #: extendvc/extend-vc.php:2329
 #: extendvc/extend-vc.php:4679
@@ -3594,7 +3594,7 @@ msgstr ""
 #: framework/modules/popup/options-map/map.php:63
 #: vc_templates/vc_text_separator.php:4
 msgid "Title"
-msgstr ""
+msgstr "Заглавие"
 
 #: extendvc/extend-vc.php:2519
 msgid "Title size (px)"
